@@ -2,7 +2,7 @@
 Welcome to my Java learning repository! Here, you'll find various projects, exercises, and code snippets as I embark on my journey to master Java programming.
 
 # Getting Started 
-If you're new to Java or programming in general, don't worry! This repository is designed to accommodate learners of all levels. Feel free to explore the code, run the programs, and experiment with your own variations.
+Feel free to explore the code, run the programs, and experiment with your own variations.
 
 # Contents
 
